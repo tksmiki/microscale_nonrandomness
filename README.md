@@ -9,5 +9,6 @@ You can start with <b>"***html"</b>, which is the html version of the rendered R
 Note: the above files are the latest version. The older version is "***.html" and "***.Rmd". 
 
 ### A small modification was added on an epiphy function for better graphic compatibility
+For each RNotebook file from each system, we have the code "source("C:/Users/biomiki/Dropbox/r_local/plot_mod_epiphy.R")". This can be replaced by the local folder position to which the user download "plot_mod_epiphy.R". 
 
 

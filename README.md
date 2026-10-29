@@ -7,8 +7,8 @@ Takeshi Miki, ****
 ### R codes and related files for reproducing our results are available here
 You can start with <b>"*.html"</b>, 
 
-which is the html version of the rendered Rnotebok including the excuted results and graphics of * system. If you would like to excute the codes by yourself, you can use the Rnotebook <b>".Rmd"</b>. Since some analyses (e.g. *) need substantial computational time, you can also load some parts of results from the R object files with the extension <b>".obj"</b> and skip such analyses. <br>
-Note: the above files are the latest version. The older version is "*.html" and "*.Rmd". 
+which is the html version of the rendered Rnotebok including the excuted results and graphics of hogehoge system. If you would like to excute the codes by yourself, you can use the Rnotebook <b>".Rmd"</b>. Since some analyses (e.g. SADIE analysis) need substantial computational time, you can also load some parts of results from the R object files with the extension <b>".obj"</b> and skip such analyses. <br>
+Note: the above files are the latest version. The older version is "hogehoge.html" and "hogehoge.Rmd". 
 
 ### A small modification was added on an epiphy function for better graphic compatibility
 For each RNotebook file from each system, we have the code "source("C:/Users/biomiki/Dropbox/r_local/plot_mod_epiphy.R")". This can be replaced by the local folder position to which the user download "plot_mod_epiphy.R". 

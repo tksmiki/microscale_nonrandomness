@@ -1,6 +1,8 @@
-## Microscale nonrandomness revisited ****
+## Microscale nonrandomness revisited: An overlooked predictor of ecological change
 ### Authorship
-Takeshi Miki, ****
+Takeshi Miki$*, Kinuyo Yoneya$, Ayumi Katayama$, Han SiHo, Housei Nakamura, Shungo Takeda, Hiroto Miyawaki, Tomonori Kume, Kanako Shirotsuka, Shuji Kaneko, Kensuke Seto, Silke Van den Wyngaert, and Maiko Kagami <br>
+$Equally contributed; *Corresponding Author
+
 ### Deposited to arXiv: ****
 ### Under review
 

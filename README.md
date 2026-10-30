@@ -3,7 +3,7 @@
 Takeshi Miki$*, Kinuyo Yoneya$, Ayumi Katayama$, Han SiHo, Housei Nakamura, Shungo Takeda, Hiroto Miyawaki, Tomonori Kume, Kanako Shirotsuka, Shuji Kaneko, Kensuke Seto, Silke Van den Wyngaert, and Maiko Kagami <br>
 $Equally contributed; *Corresponding Author
 
-### Deposited to arXiv: ****
+### Deposited to bioRxiv: ****
 ### Under review
 
 ### R codes and related files for reproducing our results are available here

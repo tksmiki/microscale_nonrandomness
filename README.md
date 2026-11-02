@@ -7,9 +7,13 @@ $Equally contributed; *Corresponding Author
 ### Under review
 
 ### R codes and related files for reproducing our results are available here
-You can start with <b>"*.html"</b>, 
+You can check each of the system-specific R Notebook html:
+-- Diatom-Chytrid System: smi_diatom_chytrid_v3_forgituhub.html
 
-which is the html version of the rendered Rnotebok including the excuted results and graphics of hogehoge system. If you would like to excute the codes by yourself, you can use the Rnotebook <b>".Rmd"</b>. Since some analyses (e.g. SADIE analysis) need substantial computational time, you can also load some parts of results from the R object files with the extension <b>".obj"</b> and skip such analyses. <br>
+-- Willow-Leaf beetle System: smi_SADIE_beetle_v4_forgithub.hmtl
+
+
+which are the html version of the rendered Rnotebok including the excuted results and graphics of hogehoge system. If you would like to excute the codes by yourself, you can use the Rnotebook <b>".Rmd"</b>. Since some analyses (e.g. SADIE analysis) need substantial computational time, you can also load some parts of results from the R object files with the extension <b>".obj"</b> and skip such analyses. <br>
 Note: the above files are the latest version. The older version is "hogehoge.html" and "hogehoge.Rmd". 
 
 ### A small modification was added on an epiphy function for better graphic compatibility

@@ -10,7 +10,11 @@ $Equally contributed; *Corresponding Author
 You can check each of the system-specific R Notebook html:<br>
 - Diatom-Chytrid System: smi_diatom_chytrid_v3_forgituhub.html
 
-- Willow-Leaf beetle System: smi_SADIE_beetle_v4_forgithub.hmtl
+- Willow-Leaf beetle System: smi_SADIE_beetle_v4_forgithub.html
+
+- Komatsuna-Aphid System: aphid_analysis2024April_v5_forgithub.html
+
+- Forest Vegetation-Soil System: forest_analysis2024_v4_forgithub.html
 
 
 which are the html version of the rendered Rnotebok including the excuted results and graphics of hogehoge system. If you would like to excute the codes by yourself, you can use the Rnotebook <b>".Rmd"</b>. Since some analyses (e.g. SADIE analysis) need substantial computational time, you can also load some parts of results from the R object files with the extension <b>".obj"</b> and skip such analyses. <br>

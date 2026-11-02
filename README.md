@@ -6,6 +6,14 @@ $Equally contributed; *Corresponding Author
 ### Deposited to bioRxiv: ****
 ### Under review
 
+## Supporting Information
+Supplementary materials accompanying the manuscript, including a figure with animated GIFs, interactive HTML tables, and HTML-rendered R Notebooks, are available in the GitHub Releases section.
+
+**[Download Supporting Information](https://github.com/tksmiki/microscale_nonrandomness/releases/latest)**
+
+The HTML files can be downloaded from the release page and opened locally using a web browser (e.g., Google Chrome or Microsoft Edge).
+
+
 ### R codes and related files for reproducing our results are available here
 You can check each of the system-specific R Notebook html:<br>
 - Diatom-Chytrid System: smi_diatom_chytrid_v3_forgituhub.html

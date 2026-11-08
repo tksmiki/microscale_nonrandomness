@@ -3,8 +3,8 @@
 Takeshi Miki$*, Kinuyo Yoneya$, Ayumi Katayama$, Han SiHo, Housei Nakamura, Shungo Takeda, Hiroto Miyawaki, Tomonori Kume, Kanako Shirotsuka, Shuji Kaneko, Kensuke Seto, Silke Van den Wyngaert, and Maiko Kagami <br>
 $Equally contributed; *Corresponding Author
 
-### Deposited to bioRxiv: ****
-### Under review
+### Deposited to bioRxiv: https://www.biorxiv.org/content/10.64898/2026.11.05.764087v1
+### Under review 
 
 ## Supporting Information
 Supplementary materials accompanying the manuscript, including a figure with animated GIFs, interactive HTML tables, and HTML-rendered R Notebooks, are available in the GitHub Releases section.
